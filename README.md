@@ -5,8 +5,6 @@
 
 This is a very minimal version of tensorflow which is currently under progress
 
-## You can try it [here](https://colab.research.google.com/github/google-research/maxim/blob/master/colab_inference_demo.ipynb)
-
 [1] MAXIM paper: https://arxiv.org/abs/2201.02973
 
 [2] MAXIM official GitHub: https://github.com/google-research/maxim
